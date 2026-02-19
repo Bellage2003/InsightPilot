@@ -37,6 +37,7 @@ cp .env.example .env
 pnpm prisma migrate dev
 pnpm dev
 
+```
 
 ## 📜 Docs 
 <br />
@@ -44,3 +45,5 @@ https://www.saasstarterkit.com/docs
 
 ##  💻 Demo
 https://www.saasstarterkit.com/dashboard/test243/main
+
+This project is built upon SaaS Kit Prisma starter and then extended with analytics + agent features.
